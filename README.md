@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @DodiyaVinesh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning mongodb
 - 💞️ I’m looking to collaborate on web development
 - 📫 discord : https://discord.gg/c9yC6UW
+- 
+- Familier with Languages/Technologies :
+- HTML, CSS, JavaScript, React.js, jQuery, Bootstrap, Node.js, Express.js, Socket.io, MongoDB, Php, MySQL
+- 
+- Programing Languages:
+- C,C++,Java,Python
+- 
+- Portfolio Link:
+- https://vinesh-dodiya.herokuapp.com/
