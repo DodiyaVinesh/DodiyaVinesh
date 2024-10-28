@@ -5,10 +5,10 @@
 
 - 👀 I’m interested in Web Development
 - ⚡ Enthusisatic towards new technology 
-- 🥅 2022 Goals: Want to Contribute more to Open Source projects
+- 🥅 Want to Contribute more to Open Source projects
 
 ### Portfolio Link:
-https://vinesh-dodiya.herokuapp.com/
+https://vinesh-dodiya.in/
 
 
 
